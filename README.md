@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto Cápsula do Tempo" src=".github.com/KlausReis/klaus-rocketseat-jornada-do-zero-a-primeira-vaga/settings" width="100%">
+  <img alt="Projeto Cápsula do Tempo" src="./assets/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -50,5 +50,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-# DevLinks
-# DevLinks
+
