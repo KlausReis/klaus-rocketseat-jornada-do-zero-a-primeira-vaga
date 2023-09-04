@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Cápsula do Tempo é um agregador de links, através de imagens e textos, para usar como portfólio online.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
@@ -41,7 +41,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/npv7wufLBX10DmHAogChTx/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-Klaus-1?type=design&node-id=306%3A3&mode=design&t=tGqTaaswcHfbViVE-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/npv7wufLBX10DmHAogChTx/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-Klaus-1?type=design&node-id=306%3A84&mode=design&t=tGqTaaswcHfbViVE-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
